@@ -1,4 +1,4 @@
-# Augustine C Emmanuel (ace)
+# **AUGUSTINE C EMMANUEL** (ace)
 
 ### Hi!
 
@@ -12,6 +12,8 @@ Welcome to my Github page. I am enthusiastic about solving biological problems u
 - **TREND ANALYSIS**
 - **MACHINE LEARNING**
 - **NETWORK ANALYSIS**
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/ace-bio/github-readme-stats)
 
 <!---
