@@ -6,10 +6,7 @@
 - 💞️ I’m looking to collaborate on bioinformatics projects. 
 - 📫 How to reach me emmaustin20@yahoo.com
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ace_bio}&theme={github_dark}" />
-
-![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={ace-bio}&theme={onedark}})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/ace-bio/github-readme-stats)
 
 <!---
 ace-bio/ace-bio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
