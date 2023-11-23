@@ -1,11 +1,17 @@
-## Hi, Augustine C Emmanuel (ace)
+# Augustine C Emmanuel (ace)
 
-### I am a bioinformatician
-- 👀 I’m interested in writing codes to solve biological problems.
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on bioinformatics projects. 
-- 📫 How to reach me emmaustin20@yahoo.com
+### Hi!
 
+Welcome to my Github page. I am enthusiastic about solving biological problems using computational tools.
+
+#### Interests
+
+- **CADD**
+- **GENOMICS**
+- **AMR**
+- **TREND ANALYSIS**
+- **MACHINE LEARNING**
+- **NETWORK ANALYSIS**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/ace-bio/github-readme-stats)
 
 <!---
