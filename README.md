@@ -7,7 +7,9 @@
 - 📫 How to reach me emmaustin20@yahoo.com
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ace_bio}&theme={github_dark}
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ace_bio}&theme={github_dark}" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ace-bio}&theme={onedark}" />
 
 <!---
 ace-bio/ace-bio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
