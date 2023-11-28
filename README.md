@@ -18,7 +18,7 @@ ____
 ---
 >**CADD** | **GENOMICS** | **AMR** | **TREND ANALYSIS** | **MACHINE LEARNING** | **NETWORK ANALYSIS**
 
-![Badges](https://github.com/ace-bio/ace-bio/blob/f29909e0755cb120c7afd4496229dcca208ef8c0/badges.gif)
+![Badges](https://github.com/ace-bio/ace-bio/blob/22ed29133a93e804d8792d8d854d6f65c22a5525/badges.gif)
 
 
 ##### CERTIFICATIONS
