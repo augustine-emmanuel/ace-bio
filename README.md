@@ -18,8 +18,6 @@ ____
 ---
 >**CADD** | **GENOMICS** | **AMR** | **TREND ANALYSIS** | **MACHINE LEARNING** | **NETWORK ANALYSIS**
 
-![Badges](https://github.com/ace-bio/ace-bio/blob/22ed29133a93e804d8792d8d854d6f65c22a5525/badges.gif)
-
 
 ##### CERTIFICATIONS
 ---
@@ -68,6 +66,8 @@ Emmanuel Augustine's account is verified. Coursera certifies their successful co
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/ace-bio/github-readme-stats)
+
+![Badges](https://github.com/ace-bio/ace-bio/blob/d8527b35023ee3564199e837c711f64da009f673/1badges.gif)
 
 <!---
 ace-bio/ace-bio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
