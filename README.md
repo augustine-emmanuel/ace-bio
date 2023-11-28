@@ -18,6 +18,9 @@ ____
 ---
 >**CADD** | **GENOMICS** | **AMR** | **TREND ANALYSIS** | **MACHINE LEARNING** | **NETWORK ANALYSIS**
 
+![Badges](https://github.com/ace-bio/ace-bio/blob/f29909e0755cb120c7afd4496229dcca208ef8c0/badges.gif)
+
+
 ##### CERTIFICATIONS
 ---
 >*[Drug Discovery](https://coursera.org/share/b1db22751e3db6c96fab8648b7eeeeae "Completed by Emmanuel Augustine
