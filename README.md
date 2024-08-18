@@ -65,7 +65,7 @@ Emmanuel Augustine's account is verified. Coursera certifies their successful co
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/ace-bio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-bio)](https://github.com/augustine-emmanuel/github-readme-stats)
 
 ![Badges](https://github.com/ace-bio/ace-bio/blob/d8527b35023ee3564199e837c711f64da009f673/1badges.gif)
 
